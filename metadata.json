@@ -1,0 +1,7 @@
+{
+  "name": "PantryChef AI",
+  "description": "An intelligent cooking companion that suggests recipes based on your available ingredients. Just list what you have or snap a photo of your pantry, and let AI do the meal planning for you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
